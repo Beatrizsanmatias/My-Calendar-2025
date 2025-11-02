@@ -1,0 +1,21 @@
+tml,
+body {
+  width: 100%;
+  min-height: 100vh;
+  margin: 0;
+  padding: 0;
+    background-color: #e0e7ff;
+}
+
+#root,
+main,
+.calendar-container,
+.calendar-wrapper,
+.calendar-card {
+  width: 100%;
+  max-width: 100%;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
